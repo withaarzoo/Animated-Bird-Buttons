@@ -13,9 +13,9 @@ There are three different types of buttons available, each with its own CSS clas
 To use a particular type of button, add the corresponding class to your HTML code.
 
 ```HTML
-        <a href="#" class="button button--piyo">
-            <!-- button content goes here -->
-        </a>
+<a href="#" class="button button--piyo">
+     <!-- button content goes here -->
+</a>
 ```
 
 ## Customization
